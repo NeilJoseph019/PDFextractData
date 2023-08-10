@@ -44,3 +44,4 @@ print("- -"*20)
 text = extract_text(f"{file}")
 print(f" Text from {listDirFiles[0]} : \n \n {text}")
 
+#  First removing all the navbar-titles off from the text:
